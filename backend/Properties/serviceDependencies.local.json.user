@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "compute.function.windows1": {
+      "restored": true,
+      "restoreTime": "2024-02-14T19:01:09.1907058Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2024-02-14T18:55:28.3512664Z"
+    }
+  },
+  "parameters": {
+    "compute.function.windows1.resourceGroupName": {
+      "Name": "compute.function.windows1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "test"
+    },
+    "compute.function.windows1.subscriptionId": {
+      "Name": "compute.function.windows1.subscriptionId",
+      "Type": "subscription",
+      "Value": "51cd2793-85d9-4469-bbfe-0c35da25d54c"
+    }
+  }
+}

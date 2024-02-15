@@ -1,0 +1,23 @@
+{
+  "version": "2.0",
+  "extensions": {
+    "http": {
+      "maxOutstandingRequests": 20,
+      "maxConcurrentRequests": 10
+    }
+  },
+  "logging": {
+    "logLevel": {
+      "default": "Information",
+      "Host.Results": "Information",
+      "Function": "Information",
+      "Host.Aggregator": "Information"
+    }
+  },
+  "extensions": {
+    "grpc": {
+      "maxMessageLength": 4194304, // optional
+      "maxConcurrentStreams": 1000 // optional
+    }
+  }
+}

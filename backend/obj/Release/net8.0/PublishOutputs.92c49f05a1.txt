@@ -1,0 +1,11 @@
+D:\repos\photo-add\photo-add\obj\Release\net8.0\PubTmp\Out\photo-add.exe
+D:\repos\photo-add\photo-add\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\repos\photo-add\photo-add\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\repos\photo-add\photo-add\obj\Release\net8.0\PubTmp\Out\photo-add.dll
+D:\repos\photo-add\photo-add\obj\Release\net8.0\PubTmp\Out\photo-add.deps.json
+D:\repos\photo-add\photo-add\obj\Release\net8.0\PubTmp\Out\photo-add.runtimeconfig.json
+D:\repos\photo-add\photo-add\obj\Release\net8.0\PubTmp\Out\photo-add.pdb
+D:\repos\photo-add\photo-add\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\repos\photo-add\photo-add\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\repos\photo-add\photo-add\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\repos\photo-add\photo-add\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

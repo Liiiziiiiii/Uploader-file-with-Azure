@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights",
+      "dynamicId": null
+    },
+    "compute.function.windows1": {
+      "group": "connections",
+      "type": "compute.function.windows"
+    }
+  }
+}
